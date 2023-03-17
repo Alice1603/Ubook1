@@ -20,7 +20,7 @@ function sea(){
 
 // Размер хэдера
 if (navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) {
-    document.getElementById("head").style.height = `140px`
+    document.getElementById("head").style.height = `110px`
 }else{
     document.getElementById("head").style.height = `60px`
 }
